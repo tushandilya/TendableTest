@@ -42,10 +42,8 @@ Required tools
 
 To run tests, run the following command
 
-git clone git@github.com:springernature/fluffy.git
-
-Run - Tendable_TestCase.java OR
-TestNG.xml
+git clone https://github.com/tushandilya/TendableTest.git
+Run TestNG.xml
 
 #### Run tests from any console from command line:
 Run it with `mvn clean test` in project's root.
